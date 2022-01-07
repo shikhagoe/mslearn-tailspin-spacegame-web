@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/ADM-86673/space%20game%20-%20web-%20pipeline/_apis/build/status/shikhagoe.mslearn-tailspin-spacegame-web?branchName=feature%2Fhome-page-text)](https://dev.azure.com/ADM-86673/space%20game%20-%20web-%20pipeline/_build/latest?definitionId=1&branchName=feature%2Fhome-page-text)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
